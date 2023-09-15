@@ -35,4 +35,7 @@ Add your OpenAI API key to the `.env` file.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Refereces
+- [OpenAI API](https://beta.openai.com/)
+
 
